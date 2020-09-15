@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="438cf5f8-eb87-4f1e-8f45-78773bb1a643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index_new_all.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1f8Lh1XpXsAJ0IDSmF0EIojspL6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Server\data\htdocs\cart" />
+      <recent name="C:\Server\data\htdocs\cart\css" />
+      <recent name="C:\Server\data\htdocs\cart\pic" />
+      <recent name="C:\Server\data\htdocs\cart\fonts" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="438cf5f8-eb87-4f1e-8f45-78773bb1a643" name="Default Changelist" comment="" />
+      <created>1595594888331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595594888331</updated>
+      <workItem from="1595594889553" duration="2357000" />
+      <workItem from="1596110211325" duration="54635000" />
+      <workItem from="1596460971495" duration="19501000" />
+      <workItem from="1598357087430" duration="21118000" />
+      <workItem from="1599127546447" duration="2442000" />
+      <workItem from="1599459118936" duration="1522000" />
+      <workItem from="1599723336857" duration="1311000" />
+      <workItem from="1600162200115" duration="2903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="804" y="356" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596120204863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="804" y="356" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1596120204863" />
+    <state x="867" y="405" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596177401660">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="867" y="405" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1596177401660" />
+    <state x="827" y="367" key="FileChooserDialogImpl" timestamp="1599208635501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="827" y="367" key="FileChooserDialogImpl/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1599208635501" />
+    <state x="838" y="417" key="Github.ShareDialog" timestamp="1600162737244">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="417" key="Github.ShareDialog/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1600162737244" />
+    <state x="806" y="224" key="Github.UntrackedFilesDialog" timestamp="1600162763472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="806" y="224" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1600162763472" />
+    <state x="703" y="289" key="run.anything.popup" timestamp="1596454493923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="289" key="run.anything.popup/0.0.1920.1040/-1280.56.1280.984@0.0.1920.1040" timestamp="1596454493923" />
+  </component>
+</project>

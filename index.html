@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- <meta http-equiv="Refresh" content="3">-->
+
+
+    <title>Pricing example for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="material-design-icons-master/iconfont/material-icons.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/css.css" rel="stylesheet">
+    <link href="css/css_font.css" rel="stylesheet">
+    <link href="css/checkbox.css" rel="stylesheet">
+    <link href="css/tab_inside.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+
+
+
+    <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center" cellspacing="0">
+      <p class="ball">Корзина</p>
+    </div>
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+      <button type="button" class="btn btn-outline-success btn-lg button-cart">ОФОРМИТЬ</button>
+      <!-- тема info -->
+      <button type="button" class="btn btn-outline-info btn-lg button-cart">ПЕЧАТЬ</button>
+      <!-- тема light -->
+      <button type="button" class="btn btn-outline-dark btn-lg button-cart">НАЗАД</button>
+      <!-- тема dark -->
+      <button type="button" class="btn btn-outline-danger btn-lg button-cart">ОТМЕНИТЬ</button>
+    </div>
+    </div>
+    <div class="container-fluid">
+      <table class="table shop_table shop_table_responsive cart woocommerce-cart-form__contents">
+        <thead>
+        <tr>
+          <th scope="col" class="product-remove">&nbsp;</th>
+          <th scope="col" product-thumbnail><p class="count">ФОТО</p></th>
+          <th scope="col"product-name><p class="count">НАИМЕНОВАНИЕ</p></th>
+          <th scope="col" product-price><p class="count">КОЛИЧЕСТВО</p></th>
+          <th scope="col" product-price><p class="count">ЦЕНА</p></th>
+          <th scope="col" product-price><img src="air2.png"; height="18%";></th>
+          <th scope="col" product-price><img src="helii4.png"; height="18%";></th>
+          <th scope="col" product-price><p class="count">СУММА</p></th>
+          <th scope="col" product-price><p class="count"><button type="button" class="close close-red btn btn-danger btn-large" >&times;</button ></th>
+
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="woocommerce-cart-form__cart-item cart_item">
+          <th scope="row" ><p class="cart_text"> 1</p></th>
+          <td class="product_remove"><img src="pic/ball1.jpg"; height="100px";></td>
+          <td><p class="cart_text"> Раздел "Свадьба". Группа шариков "Голубые"</p></td>
+          <td>
+            <div>
+              <button type="button" class="button_count btn-primary btn-group2">+</button>
+              <p class="cart_text_count btn-group2"> 10</p>
+              <button type="button" class="button_count btn-primary btn-group2">-</button>
+            </div>
+
+          </td>
+          <td><p class="cart_text"> 1000</p></td>
+          <td>
+              <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td><p class="cart_text"> 1000</p></td>
+          <th scope="col" product-price><button type="button" class="close close-red-inside" >&times;</button ></th>
+        </tr>
+        <tr>
+          <th scope="row" ><p class="cart_text"> 2</p></th>
+          <td><img src="pic/ball2.jpg"; height="100px";></td>
+          <td><p class="cart_text"> Раздел "С праздником". Группа шариков "Цветные"</p></td>
+          <td>
+            <div>
+              <button type="button" class="button_count btn-primary btn-group2">+</button>
+              <p class="cart_text_count btn-group2"> 10</p>
+              <button type="button" class="button_count btn-primary btn-group2">-</button>
+            </div>
+          </td>
+          <td><p class="cart_text"> 2500</p></td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" disabled>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td><p class="cart_text"> 2500</p></td>
+          <th scope="col" product-price><button type="button" class="close close-red-inside" >&times;</button ></th>
+        </tr>
+        <tr>
+          <th scope="row" ><p class="cart_text"> 3</p></th>
+          <td><img src="pic/group.gif"; height="100px";></td>
+          <td><p class="cart_text"> Раздел "День рождения". Группа шариков "Красные"</p></td>
+          <td>
+            <div>
+              <button type="button" class="button_count btn-primary btn-group2">+</button>
+              <p class="cart_text_count btn-group2"> 10</p>
+              <button type="button" class="button_count btn-primary btn-group2">-</button>
+            </div>
+          </td>
+          <td><p class="cart_text"> 250</p></td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td><p class="cart_text"> 250</p></td>
+          <th scope="col" product-price><button type="button" class="close close-red-inside" >&times;</button ></th>
+        </tr>
+        <tr>
+          <th scope="row" ><p class="cart_text"> 4</p></th>
+          <td><img src="pic/ball3.jpg"; height="100px";></td>
+          <td><p class="cart_text"> Раздел "С днем рождения, мама". Группа "Красные шарики". Шарик "Красный"</p></td>
+          <td>
+            <div>
+              <button type="button" class="button_count  btn-group2">+</button>
+              <p class="cart_text_count btn-group2"> 10</p>
+              <button type="button" class="button_count  btn-group2">-</button>
+            </div>
+          </td>
+          <td><p class="cart_text"> 50</p></td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td>
+            <label class="checkbox-inline checkbox-bootstrap checkbox-lg">
+              <input type="checkbox" checked>
+              <span class="checkbox-placeholder"></span>
+            </label>
+          </td>
+          <td><p class="cart_text"> 50</p></td>
+          <th scope="col" product-price><button type="button" class="close close-red-inside" >&times;</button ></th>
+        </tr>
+        <tr>
+          <td colspan="7">
+            <p class="cart_text">Итого</p>
+          </td>
+          <td>
+            <p class="cart_text">3800</p>
+          </td>
+          <td></td>
+        </tr>
+        </tbody>
+      </table>
+
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../../../dist/js/bootstrap.min.js"></script>
+    <script src="../../../../assets/js/vendor/holder.min.js"></script>
+    <script>
+      Holder.addTheme('thumb', {
+        bg: '#55595c',
+        fg: '#eceeef',
+        text: 'Thumbnail'
+      });
+    </script>
+  </body>
+</html>
